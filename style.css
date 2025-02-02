@@ -1,0 +1,26 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 20vh;
+}
+
+h1 {
+  background-color: #333;
+  color: white;
+  padding: 1px;
+  text-align: left;
+  padding-left: 10%;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  margin-top: 20px;
+}
